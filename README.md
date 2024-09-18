@@ -38,6 +38,10 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=razibit&&style=flat-square" align="center" />
 </div> 
-[![](https://visitcount.itsvg.in/api?id=razibit&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=razibit&icon=0&color=0" alt="Visit Count">
+  </a>
+</div>
 
 
