@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Rajib 👋<br><br>- 🖥️ 2nd-year CS undergrad, into AI and computer vision<br><br>
+### Hi, I'm Rajib 👋<br><br>- 🖥️ 2nd-year CS undergrad, into AI and Computer Vision<br><br>
 
 
 ## 🌐 Socials:
