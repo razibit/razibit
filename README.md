@@ -1,4 +1,3 @@
-#  About Me:
 ### Hi, I'm Rajib 👋<br><br>- 🖥️ 4th-year CS undergrad, into NLP and Computer Vision<br><br>
 
 
