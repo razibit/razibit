@@ -16,7 +16,7 @@
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=razibit&theme=dark&hide_border=false&border=ffffff" /></td>
+      <td style="border: none;">[![GitHub Roast score card](https://ghfind.com/api/card/mini/razibit)](https://ghfind.com/u/razibit?ref=badge)</td>
       <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razibit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=ffffff" /></td>
     </tr>
   </table>
