@@ -21,11 +21,6 @@
   <img src="https://vercel.app" alt="Rajib's GitHub Stats" />
 </p>
 
-<p align="center">
-  <b>🔝 Top Contributed Repo</b><br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=razibit&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
 <div align="start">
   <img src="https://github-readme-stats-xi-navy.vercel.app/api?username=razibit&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats-xi-navy.vercel.app/api/top-langs/?username=razibit&theme=dark&show_icons=true&hide_border=true&layout=compact" height="160" alt="languages graph"  />
