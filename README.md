@@ -29,4 +29,5 @@
 <div align="start">
   <img src="https://github-readme-stats-xi-navy.vercel.app/api?username=razibit&theme=dark&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats-xi-navy.vercel.app/api/top-langs/?username=razibit&theme=dark&show_icons=true&hide_border=true&layout=compact" height="160" alt="languages graph"  />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=razibit&rank_icon=percentile&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=razibit&rank_icon=percentile&include_all_commits=true&theme=dark)
 </div>
